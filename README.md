@@ -27,7 +27,7 @@ The app uses the **PIMA Indians Diabetes Dataset**, which contains the following
 ## 🚀 Features
 
 - User-friendly web form with medical hints
-- Trained using `LogisticRegression`
+- Trained using `LogisticRegression`, Decision Tree, SVM & Naive Bayes
 - Preprocessing with `StandardScaler`
 - Real-time predictions via Flask
 - Result opens in a new tab
